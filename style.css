@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(navy, gray,white);
+	background: radial-gradient(navy, gray,white);
 }
 h1{
 	color: yellow;
