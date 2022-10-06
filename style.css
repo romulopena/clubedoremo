@@ -1,10 +1,10 @@
 body{
-	background: radial-gradient(navy, gray,white);
+	background: radial-gradient(white,navy));
 }
 h1{
 	color: navy;
 }
-a{
+h2{
 	background:black;
 	color:navy;
 }
